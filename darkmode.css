@@ -75,13 +75,18 @@ textarea {
 }
 
 [jscontroller=CTfTTd] > div:nth-of-type(2),
-[jscontroller=CTfTTd] > div:nth-of-type(2) > div:not(:first-child) {
-    border-color: #363636;
+[jscontroller=CTfTTd] > div:nth-of-type(2) > div:not(:first-child),
+.Bljmlb {
+    border-color: #363636 !important;
 }
 
 /* Translation result text container */
 .lRu31 {
     color: #edeeee !important;
+}
+
+.jq25U {
+    color: #9c9c9c !important;
 }
 
 .lRu31 > span:first-child > span { /* This is the highlight on the result side */
