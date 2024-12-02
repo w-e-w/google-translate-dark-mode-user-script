@@ -2,7 +2,7 @@
 // @name         Dark mode google translate
 // @namespace    w-e-w
 // @version      1.0
-// @description  Daark mode for google translate using custom css
+// @description  Dark mode for google translate using custom css
 // @author       w-e-w
 // @match        https://translate.google.com/*
 // @grant        none
