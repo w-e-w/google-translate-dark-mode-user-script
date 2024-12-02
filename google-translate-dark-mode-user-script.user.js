@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Daark mode google translate
+// @name         Dark mode google translate
 // @namespace    w-e-w
 // @version      1.0
 // @description  Daark mode for google translate using custom css
